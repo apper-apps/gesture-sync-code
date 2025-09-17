@@ -116,3 +116,5 @@ const LogoutButton = () => {
     </Button>
   );
 };
+
+export default Header;
